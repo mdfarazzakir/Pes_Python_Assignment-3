@@ -1,0 +1,10 @@
+These lines are written in write mode
+The previous data has been erased as the file has been created newly
+The quick brown fox
+jumps over
+the lazy dog
+These below line are written in append mode
+New lines will be added below the lines that were written previously
+The sentence, The quick brown fox jumps over the lazy dog
+,contains all the letters of the English Alphabet
+All 26 letter
